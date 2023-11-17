@@ -1,4 +1,4 @@
-# Instruction finetuning Llama 2 with PEFT's QLoRa method: Project Overview
+# Finetuning Llama 2 using QLoRa method: Project Overview
 - Finetuned ``Llama 2`` (7B parameters) on a T4 GPU using Google Colab in a ``4-bit`` precision 
 - Employed Supervised Fine-Tuning (``SFTTrainer``) to finetune the model with the ``miniguanaco`` dataset of 1000 instruction-response pairs 
 - Utilized ``PEFT`` (parameter-efficient fine-tuning) techniques to save resources
