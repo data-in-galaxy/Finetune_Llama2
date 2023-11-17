@@ -9,6 +9,7 @@
 **Hugging Face Datasets**: https://huggingface.co/datasets <br>
 **SFTTrainer Documentation**: https://huggingface.co/docs/trl/main/en/sft_trainer <br>
 **PEFT Documentation**: https://huggingface.co/docs/peft/package_reference/peft_model <br>
+**Younes Belkada's Github Gist:** https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da
 
 ## Detailed blog post
 https://hahoangpro.wixsite.com/datascience/post/building-a-conversational-chatbot-with-memory-for-your-pdfs
