@@ -13,7 +13,7 @@
 **How to prompt Llama 2 by Hugging Face**: https://huggingface.co/blog/llama2#how-to-prompt-llama-2<br>
 
 ## Detailed blog post
-https://hahoangpro.wixsite.com/datascience/post/building-a-conversational-chatbot-with-memory-for-your-pdfs
+https://hahoangpro.wixsite.com/datascience/post/instruction-finetuning-llama-2-with-peft-s-qlora-method
 
 ## Additional projects
 https://hahoangpro.wixsite.com/datascience/blog
